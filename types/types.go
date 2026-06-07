@@ -41,9 +41,3 @@ type VideoMetadata struct {
 	Lesson_id         int    `json:"lesson_id"`
 	Provider_id       int    `json:"provider_id"`
 }
-
-// https://medium.com/@suleymanif.tural/sql-server-full-text-searching-practical-approach-50001151e475
-// https://vela.simplyblock.io/blog/row-level-security-postgres/
-// https://neon.com/postgresql/tutorial/recursive-query
-// https://iniakunhuda.medium.com/postgresql-full-text-search-a-powerful-alternative-to-elasticsearch-for-small-to-medium-d9524e001fe0
-// https://github.com/simplyblock/example-rls-invoicing/tree/main
