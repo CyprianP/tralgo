@@ -56,8 +56,8 @@ Wiederkehrende Handler-Logik auslagern, um Boilerplate über die fünf Tabellen 
 
 ## Referenzen ##
 
-https://vela.simplyblock.io/blog/row-level-security-postgres/
-https://github.com/simplyblock/example-rls-invoicing/tree/main
+- https://vela.simplyblock.io/blog/row-level-security-postgres/
+- https://github.com/simplyblock/example-rls-invoicing/tree/main
 
-https://neon.com/postgresql/tutorial/recursive-query
-https://iniakunhuda.medium.com/postgresql-full-text-search-a-powerful-alternative-to-elasticsearch-for-small-to-medium-d9524e001fe0
+- https://neon.com/postgresql/tutorial/recursive-query
+- https://iniakunhuda.medium.com/postgresql-full-text-search-a-powerful-alternative-to-elasticsearch-for-small-to-medium-d9524e001fe0
