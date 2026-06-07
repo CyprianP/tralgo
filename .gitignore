@@ -1,0 +1,32 @@
+# Aufgabenstellung / Notizen, nicht Teil der Abgabe
+task/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/tralgo
+/main
+
+# Test binaries / coverage
+*.test
+*.out
+coverage.*
+
+# Go workspace
+go.work
+go.work.sum
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Env / Secrets
+.env
+*.local
