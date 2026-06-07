@@ -53,3 +53,11 @@ Volltextsuche: Das Datenmodell ist vorbereitet. subtitle_text wird über eine ge
 ## Mögliche Erweiterungen ## 
 
 Wiederkehrende Handler-Logik auslagern, um Boilerplate über die fünf Tabellen zu reduzieren.
+
+## Referenzen ##
+
+https://vela.simplyblock.io/blog/row-level-security-postgres/
+https://github.com/simplyblock/example-rls-invoicing/tree/main
+
+https://neon.com/postgresql/tutorial/recursive-query
+https://iniakunhuda.medium.com/postgresql-full-text-search-a-powerful-alternative-to-elasticsearch-for-small-to-medium-d9524e001fe0
